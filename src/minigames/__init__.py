@@ -1,0 +1,1 @@
+"""Mini-games for Sukunatchi."""
